@@ -1,5 +1,6 @@
 html {
   box-sizing: border-box;
+  font-family: "Lato", sans-serif;
 }
 
 *, *::before, *::after {
@@ -7,7 +8,10 @@ html {
 }
 
 body {
-  background-color: #666;
+  background-color: #f2f2f2;
   margin: 0;
+}
+
+h1 {
 
 }
